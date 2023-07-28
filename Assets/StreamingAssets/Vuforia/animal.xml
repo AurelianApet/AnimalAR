@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="grass" size="500.000000 339.177765" />
+    <ImageTarget name="hill" size="500.000000 339.177765" />
+    <ImageTarget name="plamg" size="500.000000 339.177765" />
+    <ImageTarget name="plame" size="500.000000 339.177765" />
+    <ImageTarget name="lake" size="500.000000 339.177765" />
+    <ImageTarget name="Football" size="500.000000 339.177765" />
+    <ImageTarget name="zebra" size="2.000000 1.357920" />
+    <ImageTarget name="wolf" size="2.000000 1.357920" />
+    <ImageTarget name="tortoise" size="2.000000 1.357920" />
+    <ImageTarget name="shark" size="2.000000 1.357920" />
+    <ImageTarget name="seed" size="2.000000 1.357920" />
+    <ImageTarget name="rhinoceros" size="2.000000 1.357920" />
+    <ImageTarget name="polarbear" size="2.000000 1.359129" />
+    <ImageTarget name="penguin" size="2.000000 1.357920" />
+    <ImageTarget name="orca" size="2.000000 1.357920" />
+    <ImageTarget name="lioness" size="2.000000 1.357920" />
+    <ImageTarget name="lion" size="2.000000 1.359129" />
+    <ImageTarget name="ice" size="2.000000 1.359129" />
+    <ImageTarget name="gorilla" size="2.000000 1.357920" />
+    <ImageTarget name="giraffe" size="2.000000 1.357920" />
+    <ImageTarget name="fish" size="2.000000 1.357920" />
+    <ImageTarget name="elephant" size="2.000000 1.357920" />
+    <ImageTarget name="eagle" size="2.000000 1.357920" />
+    <ImageTarget name="dolphin" size="2.000000 1.357920" />
+    <ImageTarget name="crocodile" size="2.000000 1.357920" />
+    <ImageTarget name="chicken" size="2.000000 1.357920" />
+    <ImageTarget name="cheetah" size="2.000000 1.357920" />
+    <ImageTarget name="bear" size="2.000000 1.357920" />
+  </Tracking>
+</QCARConfig>
